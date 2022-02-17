@@ -209,5 +209,6 @@ function watchForm() {
 }
 
 console.log(1);
+console.log(1);
 
 $(document).ready(watchForm());
